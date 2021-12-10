@@ -1,0 +1,19 @@
+.titlered{
+    color: red;
+
+}
+
+.title{
+    border: solid 1px;
+    border-color: black;
+max-width:100vw ;
+
+
+
+}
+
+.video{
+width: "320px";
+height: "240px";
+
+}
